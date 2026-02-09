@@ -14,7 +14,7 @@ export const DEFAULT_SOURCES: CaijiSource[] = [
   {
     key: "jisu",
     name: "极速资源",
-    api: "https://jisuzy.com/api.php/provide/vod",
+    api: "https://cj.lziapi.com/api.php/provide/vod",
     enabled: true,
     priority: 2,
   },
